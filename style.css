@@ -1,8 +1,7 @@
-
-ul.space_list li {
-    margin-bottom: 2em;
-  }
-  ul {
-    list-style-type: none  !important;
-    margin: 0;
-  }
+li {
+  margin-bottom: 2em;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+}
